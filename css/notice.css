@@ -1,0 +1,17 @@
+
+body{
+    padding: 0.1rem 1rem
+}
+h1{
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-align: center;
+    line-height: 2.5rem;
+    color: #333;
+}
+p{
+    text-indent: 1.5em;
+    line-height: 1.5rem;
+    color: #333;
+    font-size: 0.8rem;
+}
